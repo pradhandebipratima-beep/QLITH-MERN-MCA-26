@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+
+  <body>
+    <table border="1">
+    <caption>This is student data</caption>
+    <colgroup>
+    <col span="" style="background-color:red">
+    <col span="1" style="background-color:blue">
+    <col span="1" style="background-color:yellow">
+
+</colgroup>
+    <thead>
+        <tr>
+<th>ID</th>
+<th>Name</th>
+<th>Course</th>
+<th>Batch</th>
+<th>Marks</th>
+<th>Status</th>
+    </tr>
+</thead>
+    <tbody>
+        <tr>
+            <td>Aarav Sharma</td>
+        <td>Web development</td>
+        <td>WD-01</td>
+        <td>92</td>
+        <td>Completed</td>
+</tr>
+        
+        <tr>
+            <td>Ishita Verma</td>
+        <td>Mern stack</td>
+        <td>MS-02</td>
+        <td>88</td>
+        <td>In progress</td>
+        </tr>
+        <tr>
+            <td>Rohan Das</td>
+        <td>Python Django</td>
+        <td>PD-01</td>
+        <td>95</td>
+        <td>completed</td>
+        </tr>
+        <tr>
+            <td>Priya naik</td>
+        <td>UI/UX Design</td>
+        <td>UX-01</td>
+        <td>87</td>
+        <td>In Progress</td>
+        </tr>
+        <tr>
+            <td>Kunal Patel</td>
+        <td>Data Science</td>
+        <td>DS-01</td>
+        <td>90</td>
+        <td>Completed</td>
+        </tr>
+    </tbody>
+</table>
+
+
+  </body>
+</html>
